@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-appstudio/rhtap-task-runner:latest
+      - image: quay.io/rhtap_qe/go-bhzdyafb:5dc6ed5b92ece57cf379b46f8d09dcf75fafa621@sha256:08a756d10261043d2660c6efd1532225b652f36ff5cd31e71d134ec6bac077a6
         name: container-image  
